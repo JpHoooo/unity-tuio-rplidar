@@ -23,17 +23,17 @@
 4. At this time you will find that the radar starts to rotate, and the following interface appears. If it does not rotate, please see Json instructions
 
 ### ⭐Step4：Json instructions
-![Json说明](https://jp-github.oss-cn-shenzhen.aliyuncs.com/unity-tuio-rplidar/JsonRM.jpg)
+![Json说明](https://github.com/JpHoooo/unity-tuio-rplidar/blob/master/Assets/imgs/LDImgs/JsonRM.png)
 
 ### ⭐Step5：Open the server
 1. Open `MultiTouch_Server.exe` under the `...\demo_TUIO\multitouch_Server\multitouch_Server\workspaces\vc10\server_project\bin` folder 
 2. If you have an object within the range set in calibration, the following interface will pop up, indicating that the configuration is normal   
-![server](https://jp-github.oss-cn-shenzhen.aliyuncs.com/unity-tuio-rplidar/server.jpg)
+![server](https://github.com/JpHoooo/unity-tuio-rplidar/blob/master/Assets/imgs/LDImgs/server.png)
 3. Please do not shut down the server, keep it always on at this time
 
 ### ⭐Step6：Open Unity Project
 1. Open `Main`, Run it
 2. This scene already adds `TUIO Input` Script  
-![TUIO Input](https://jp-github.oss-cn-shenzhen.aliyuncs.com/unity-tuio-rplidar/inputTUIO.jpg)
+![TUIO Input](https://github.com/JpHoooo/unity-tuio-rplidar/blob/master/Assets/imgs/LDImgs/settings.png)
 3. If the cursor is moved to the object and the shape name of the object appears in the console, it means that the scene runs successfully 
-![Unity](https://jp-github.oss-cn-shenzhen.aliyuncs.com/unity-tuio-rplidar/Unity.jpg)
+![Unity](https://github.com/JpHoooo/unity-tuio-rplidar/blob/master/Assets/imgs/LDImgs/Unity.png)
